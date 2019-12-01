@@ -33,3 +33,8 @@ This repository is licensed under the [Mozilla Public License](https://github.co
 
 You can get in touch with me via [my website, Bits and Bugs](https://bitsandbugs.io).
 
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/chrisvoncsefalvay/samoa-measles-2019/badge.svg?style=beer-square)](https://beerpay.io/chrisvoncsefalvay/samoa-measles-2019)  [![Beerpay](https://beerpay.io/chrisvoncsefalvay/samoa-measles-2019/make-wish.svg?style=flat-square)](https://beerpay.io/chrisvoncsefalvay/samoa-measles-2019?focus=wish)
