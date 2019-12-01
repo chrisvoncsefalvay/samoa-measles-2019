@@ -27,7 +27,7 @@ If you use this project, please [let me know](https://bitsandbugs.io/talkback/) 
 
 ## License
 
-This repository is licensed under the Creative Commons [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+This repository is licensed under the [Mozilla Public License](https://github.com/chrisvoncsefalvay/samoa-measles-2019/blob/master/LICENSE).
 
 ## Contact
 
