@@ -1,6 +1,6 @@
 # Samoa measles outbreak surveillance
 
-[![DOI](https://zenodo.org/badge/225143525.svg)](https://zenodo.org/badge/latestdoi/225143525) ![Beerpay](https://img.shields.io/beerpay/chrisvoncsefalvay/samoa-measles-2019)
+[![DOI](https://zenodo.org/badge/225143525.svg)](https://zenodo.org/badge/latestdoi/225143525) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/chrisvoncsefalvay/samoa-measles-2019) ![Beerpay](https://img.shields.io/beerpay/chrisvoncsefalvay/samoa-measles-2019)
 
 
 The purpose of this repository is to track the Samoa measles outbreak. Data is obtained from the Government of Samoa's Twitter page (@samoagovt), which publishes regular updates. Times are in UTC (GMT), and refer to the time of the source tweet.
